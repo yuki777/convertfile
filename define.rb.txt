@@ -1,0 +1,12 @@
+#!/usr/bin/ruby
+# -*- coding: utf-8 -*-
+
+APP_KEY     = 'dropbox-app-key'
+APP_SECRET  = 'dropbox-app-secret'
+ACCESS_TYPE = :app_folder
+
+MYSQL_HOST = ""
+MYSQL_USER = ""
+MYSQL_PASS = ""
+MYSQL_NAME = ""
+
