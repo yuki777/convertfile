@@ -1,0 +1,13 @@
+.tags
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+.bundle/
+vendor/
+Gemfile.lock
+logs/app.log
+logs/cron.log
+cron.log
+.pid
+define.rb
